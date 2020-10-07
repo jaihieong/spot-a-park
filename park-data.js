@@ -1,5 +1,4 @@
 // Park API Simulation
-
 let parks = [
     {
       name: "Wakefield Park",
@@ -82,3 +81,5 @@ let parks = [
       }
     }
   ];
+
+  console.log(parks);

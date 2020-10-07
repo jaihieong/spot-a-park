@@ -33,6 +33,10 @@ h1 {
   opacity: 1.0;
 }
 
+#testingID {
+  color: white;
+}
+
 hr {
   width: 400px;
   border-top: 1px solid #f8f8f8;
